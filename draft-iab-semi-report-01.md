@@ -1,8 +1,8 @@
 ---
 title: IAB Workshop on Stack Evolution in a Middlebox Internet (SEMI) Report
 abbrev: SEMI Workshop
-docname: draft-iab-semi-report-00
-date: 2015-5-28
+docname: draft-iab-semi-report-01
+date: 2015-7-22
 category: info
 ipr: trust200902
 
@@ -274,7 +274,7 @@ and prototyping activity now is not yet   mature enough for standardization
 within an IETF working group. An appropriate venue for continuing the work
 remains unclear.
 
-Discussion contiunes on the spud mailing list (spud@ietf.org). The UDP shim layer prototype described by {{I-D.hildebrand-spud-prototype}}.
+Discussion continues on the spud mailing list (spud@ietf.org). The UDP shim layer prototype described by {{I-D.hildebrand-spud-prototype}}.
 
 ## Middlebox measurement
 
@@ -325,7 +325,7 @@ devices along the path, and so on. This document will be produced by the IAB
 IP Stack Evolution Program; the new transport encapsulations draft
 {{I-D.trammell-stackevo-newtea}} may evolve into the basis for this work.
 
-Further due to the underlying discuss on trust and a needed "balance of power" between the end hosts and the network, the workshop participants concluded that it is neccessary to define cryptographic protocol based approaches to enable transport protocol extensibility.
+Further due to the underlying discuss on trust and a needed "balance of power" between the end hosts and the network, the workshop participants concluded that it is necessary to define cryptographic protocol based approaches to enable transport protocol extensibility.
 
 ## Additional Activities in the IETF and IAB
 
