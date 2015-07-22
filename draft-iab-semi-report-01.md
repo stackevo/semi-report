@@ -309,10 +309,11 @@ A mailing list (hops@ietf.org) has been established to continue discussion.
 The workshop identified the potential to update {{RFC3234}} to provide
 guidelines on middlebox design, implementation, and deployment in order to
 reduce inadvertent or accidental impact on stack ossification in existing and
-new middlebox designs. This document will be produced by the IAB IP Stack
-Evolution program, drawing in part on the work of the BEHAVE working group,
-and on experience with STUN, TURN, and ICE, all of which focus more
-specifically on network address translation.
+new middlebox designs. The IAB Stack Evolution Program will follow up on this
+with the participants in the now-closed BEHAVE working group, as it most
+closely follows the work of that group. It will draw in part on the work of
+the BEHAVE working group, and on experience with STUN, TURN, and ICE, all of
+which focus more specifically on network address translation.
 
 ## Architectural guidelines for transport stack evolution
 
@@ -346,7 +347,7 @@ The IAB thanks the SEMI Program Committee: Brian Trammell, Mirja Kuehlewind,
 Joe Hildebrand, Eliot Lear, Mat Ford, Gorry Fairhurst, and Martin Stiemerling.
 We additionally thank Prof. Dr. Bernhard Plattner of the Communication Systems
 Group at ETH for hosting the workshop, and the Internet Society for its
-support. Thanks to Suzanne Woolf for the feedback.
+support. Thanks to Suzanne Woolf and Aaron Falk for the feedback and review.
 
 # Attendees
 
